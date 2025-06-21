@@ -1,0 +1,7 @@
+*.class
+package.bluej
+.bluej
+.classpath
+.project
+.settings/
+.DS_Store
